@@ -1,0 +1,1 @@
+# smarthouse for disabled
